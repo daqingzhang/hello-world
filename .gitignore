@@ -9,7 +9,7 @@
 *.depend.*
 
 # ignore tags
-/tags
+tags
 /etags
 /ctags
 
