@@ -12,3 +12,11 @@
 /tags
 /etags
 /ctags
+
+#
+*.ko
+.*
+.*.*
+*.*.c
+*.order
+*.symvers
