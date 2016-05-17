@@ -1,0 +1,14 @@
+*.o
+*.su
+*.bin
+*.img
+*.swp
+*.map
+*.a
+*~
+*.depend.*
+
+# tags
+/tags
+/etags
+/ctags
